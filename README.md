@@ -1,5 +1,5 @@
-# homekit
+# C# Language Specification 5.0
 
-整理以下网站内容的前两章。
+C# Language Specification 5.0
 
-<http://www.cocoachina.com/ios/20150324/11411.html>
+<http://www.cnblogs.com/forerunner/p/csls5-3-Basic_Concepts.html>
